@@ -1,0 +1,31 @@
+.conteudo{
+	-fx-background-color: gray;
+	-fx-font-family:"Pacifico";
+	}
+
+.numero{
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 30px;
+	
+}
+
+.titulo{
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 30px;
+}
+
+.botoes{
+	-fx-text-fill: #48b2ee;
+	-fx-background-color: #fff;
+	-fx-background-radius: 30px;
+	-fx-font-size: 28px;
+	-fx-min-width: 60px;
+	-fx-min-heigth: 60px;
+}
+
+.verde{
+	-fx-text-fill: #4bdb82;
+}
+.vermelha{
+	-fx-text-fill: #ee4139;
+}
